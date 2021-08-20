@@ -1,1 +1,0 @@
-Affitto num. :9  Cod. Op. :1   Cliente :Ponti Carlo  Data Inizio :22-3-2017  Data Fine :23-4-2017  Codice Cabina:20  Acqua Corrente :no  Elettricita :si  Servizio Asciugamani :si   Costo totale : euro 0.0

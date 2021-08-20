@@ -1,1 +1,0 @@
-Noleggio num. :3  Codice Operatore  :1   Cliente :De filippi Giovanni  Data Noleggio :2-10-2016  Codice Ombrellone:1  Numero Lettini :2   Costo totale : euro 18.0
